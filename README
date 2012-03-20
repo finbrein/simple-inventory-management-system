@@ -1,0 +1,26 @@
+Welcome to simple inventory system with Spring Web MVC and Spring.
+
+*********************************************************************************************************************
+Introduction
+
+This is a a very basic inventory management system. 
+
+I am using this tutorial for learning the specifics of Spring framework and developing an application with it.
+
+Technologies used include Java, Spring, JSP, HTML, HSQLDB. The development environment is Eclipse IDE for Java EE 
+developers, Ant 1.8.3 for making the build and deployment and Apache Tomcat is the application server.
+
+The springapp folder contains the project demo including all the resources. 
+
+Note that the current installation of the invetory system is on my local machine. Therefore changes have to be done to 
+make it run on another machine. 
+
+My current effort is to create different applications based on the program example.
+
+Getting Help
+**********************************************************************************************************************
+If you have a question or need help with application, you can get help from the following sources:
+
+* eMail: finbrein@gmail.com
+
+

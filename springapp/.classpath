@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/eclipse/workspace/springapp/war/WEB-INF/lib/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/eclipse/workspace/springapp/war/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/eclipse/workspace/springapp/war/WEB-INF/lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/spring-framework-2.5/lib/j2ee/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/spring-framework-2.5/dist/modules/spring-web.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/spring-framework-2.5/dist/modules/spring-context.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/spring-framework-2.5/dist/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/eclipse/workspace/springapp/war/WEB-INF/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/00_apache-tomcat-7.0.26/eclipse/workspace/springapp/war/WEB-INF/lib/spring-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
